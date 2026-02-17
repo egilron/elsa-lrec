@@ -1,5 +1,5 @@
 # ELSA classification through fine-truning decoder models
-Example code for training and inference as described in our paper under review. Our code is based on the huggingface example code, and we retain their copyright information. We added text processing, evaluation and logging.
+Example code for training and inference as described in our paper for LREC 2026. Our code is based on the huggingface example code, and we retain their copyright information. We added text processing, evaluation and logging.
 ## ELSA classification through pairwise comparison
 ### Datasets
 The ELSA dataset is obtained from `https://github.com/ltgoslo/ELSA`.  
