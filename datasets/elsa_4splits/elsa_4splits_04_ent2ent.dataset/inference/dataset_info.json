@@ -1,0 +1,32 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "split": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "elsa_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "entity_mention": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "true_sentiment_3": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "pred_this": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
