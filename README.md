@@ -1,5 +1,8 @@
 # ELSA classification through fine-truning decoder models
 Example code for training and inference as described in our paper for LREC 2026. Our code is based on the huggingface example code, and we retain their copyright information. We added text processing, evaluation and logging.
+
+## LREC 2026 Paper
+[Entity-Level Sentiment Analysis with Sentence Relevance Detection](ELSA_LREC_final.pdf)
 ## ELSA classification through pairwise comparison
 ### Datasets
 The ELSA dataset is obtained from `https://github.com/ltgoslo/ELSA`.  
